@@ -1,7 +1,3 @@
-# Personal Portfolio Website - React Edition
-
-![Portfolio Screenshot](https://i.imgur.com/9O1Z2gY.png)
-
 This is a modern, fully responsive personal portfolio website built with **React** and **Vite**. It showcases my skills, projects, professional experience, and certifications in a clean, interactive, and visually appealing format.
 
 **Live Demo:** 👉 **https://react-portfolio-fawn-rho.vercel.app/**
